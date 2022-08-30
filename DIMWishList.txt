@@ -18,7 +18,4 @@ dimwishlist:item=3341893443&perks=2450788523
 dimwishlist:item=3341893443&perks=1428297954
 
 
-// Funnelweb ()
-dimwishlist:item=3341893443&perks=2846385770
-
 
