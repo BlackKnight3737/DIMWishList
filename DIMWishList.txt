@@ -3,18 +3,17 @@ title:Custom
 // Funnelweb ()
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
 
-// Funnelweb ()
+//notes:2/5
 dimwishlist:item=3341893443&perks=1820235745,4104185692
 dimwishlist:item=3341893443&perks=2450788523,2846385770
 dimwishlist:item=3341893443&perks=1428297954,2846385770
 
-// Funnelweb ()
+//notes:1/5
 dimwishlist:item=3341893443&perks=2450788523
 dimwishlist:item=3341893443&perks=1428297954
 dimwishlist:item=3341893443&perks=2846385770
 
-//Funnelweb (No good perks)
-//notes: TRASH
+//notes:TRASH
 dimwishlist:item=-3341893443
 
 
