@@ -39,57 +39,64 @@ dimwishlist:item=372697604&perks=2846385770
 
 
 
-// Funnelweb (pve)
-//notes: tags:pve
-dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692
-
-
-// Funnelweb (pvp)
-//notes: tags:pvp
-dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770
-dimwishlist:item=3341893443&perks=4090651448,3142289711,1428297954,2846385770
-//notes: 3/5
-dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745
-dimwishlist:item=3341893443&perks=4090651448,3142289711,4104185692
-dimwishlist:item=3341893443&perks=4090651448,1820235745,4104185692
-dimwishlist:item=3341893443&perks=3142289711,1820235745,4104185692
-dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523
-dimwishlist:item=3341893443&perks=4090651448,3142289711,1428297954
-dimwishlist:item=3341893443&perks=4090651448,3142289711,4104185692
-dimwishlist:item=3341893443&perks=4090651448,2450788523,2846385770
-dimwishlist:item=3341893443&perks=4090651448,1428297954,2846385770
-dimwishlist:item=3341893443&perks=3142289711,2450788523,2846385770
-dimwishlist:item=3341893443&perks=3142289711,1428297954,2846385770
-
-//notes: 2/5
-dimwishlist:item=3341893443&perks=4090651448,3142289711
-dimwishlist:item=3341893443&perks=4090651448,1820235745
-dimwishlist:item=3341893443&perks=4090651448,4104185692
-dimwishlist:item=3341893443&perks=3142289711,1820235745
-dimwishlist:item=3341893443&perks=3142289711,4104185692
-dimwishlist:item=3341893443&perks=1820235745,4104185692
-dimwishlist:item=3341893443&perks=4090651448,3142289711
-dimwishlist:item=3341893443&perks=4090651448,2450788523
-dimwishlist:item=3341893443&perks=4090651448,1428297954
-dimwishlist:item=3341893443&perks=4090651448,2846385770
-dimwishlist:item=3341893443&perks=3142289711,2450788523
-dimwishlist:item=3341893443&perks=3142289711,1428297954
-dimwishlist:item=3341893443&perks=3142289711,2846385770
-dimwishlist:item=3341893443&perks=2450788523,2846385770
-dimwishlist:item=3341893443&perks=1428297954,2846385770
-
-//notes: 1/5
-//tags: 1/5 Perks
+// Funnelweb ()
+dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,3142289711,1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,3142289711,1820235745,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1467527085,3142289711,1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,3142289711,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,3142289711,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,3142289711,1428297954#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,3142289711,1820235745#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,3142289711,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,3142289711,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1467527085,3142289711,1428297954#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,1820235745,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1467527085,3142289711,2450788523#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,1820235745,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1467527085,3142289711,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=3142289711,1820235745,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1467527085,1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=3142289711,1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=3142289711,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,3142289711#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=3142289711,2450788523#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1820235745,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1467527085,3142289711#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=3142289711,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=3142289711,1428297954#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=3142289711,1820235745#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,1820235745#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,3142289711#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=3142289711,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,1820235745#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,1428297954#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,2846385770#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
+dimwishlist:item=3341893443&perks=4090651448,2450788523#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,2450788523#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=4090651448,3142289711#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+dimwishlist:item=3341893443&perks=1467527085,1428297954#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
 dimwishlist:item=3341893443&perks=4090651448
 dimwishlist:item=3341893443&perks=3142289711
+dimwishlist:item=3341893443&perks=1467527085
+dimwishlist:item=3341893443&perks=2846385770
 dimwishlist:item=3341893443&perks=1820235745
-dimwishlist:item=3341893443&perks=4104185692
 dimwishlist:item=3341893443&perks=1428297954
 dimwishlist:item=3341893443&perks=2450788523
-dimwishlist:item=3341893443&perks=2846385770
 
 //notes: TRASH
-dimwishlist:item=-3341893443&perks=3300816228
+dimwishlist:item=-3341893443&
 
 
 // Stormchaser ()
