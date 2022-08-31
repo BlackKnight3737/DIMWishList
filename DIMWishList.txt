@@ -39,7 +39,8 @@ dimwishlist:item=372697604&perks=2846385770
 
 
 
-// Funnelweb ()dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
+// Funnelweb ()
+dimwishlist:item=3341893443&perks=4090651448,3142289711,2450788523,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
 dimwishlist:item=3341893443&perks=4090651448,3142289711,1428297954,2846385770#notes:pvp - corkscrew rifling/extended barrel, accurized rounds, perpetual motion/killing wind, rangefinder
 dimwishlist:item=3341893443&perks=1467527085,3142289711,1820235745,4104185692#notes:pve - corkscrew rifling/extended barrel, accurized rounds, subsistence, frenzy
