@@ -169,6 +169,7 @@ dimwishlist:item=1937552980&perks=3038247973
 dimwishlist:item=1937552980&perks=2848615171
 dimwishlist:item=1937552980&perks=4104185692
 
-//Crisis Inverted
-//notes:TRASH. I hate this gun. 
+//Crisis Inverted (
+//notes:TRASH. I hate this gun. Use Cantata-57 for Arc hand cannon. 
+dimwishlist:item=-2888266564
 dimwishlist:item=-2888266564
