@@ -124,7 +124,7 @@ dimwishlist:item=3652506829&perks=1687452232
 dimwishlist:item=3652506829&perks=247725512
 dimwishlist:item=3652506829&perks=2284787283
 
-//TYphon GL5
+//Typhon GL5
 dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,3194351027#notes:pve - quick launch spike grenades, impulse amplifier, explosive light
 dimwishlist:item=3568377122&perks=3525010810,3301904089,3194351027#notes:pve - quick launch spike grenades, impulse amplifier, explosive light
 dimwishlist:item=3568377122&perks=3525010810,951095735,3194351027#notes:pve - quick launch spike grenades, impulse amplifier, explosive light
