@@ -169,7 +169,32 @@ dimwishlist:item=1937552980&perks=3038247973
 dimwishlist:item=1937552980&perks=2848615171
 dimwishlist:item=1937552980&perks=4104185692
 
-//Crisis Inverted (
+//Crisis Inverted ()
 //notes:TRASH. I hate this gun. Use Cantata-57 for Arc hand cannon. 
 dimwishlist:item=-2888266564
 dimwishlist:item=-2888266564
+
+XENOCLAST IV ()
+dimwishlist:item=2891672170&perks=1047830412,791862061,1631667848,2679249093#notes:
+dimwishlist:item=2891672170&perks=1047830412,106909392,1631667848,2679249093#notes:
+dimwishlist:item=2891672170&perks=106909392,1631667848,2679249093#notes:
+dimwishlist:item=2891672170&perks=1047830412,1631667848,2679249093#notes:
+dimwishlist:item=2891672170&perks=1047830412,791862061,1631667848#notes:
+dimwishlist:item=2891672170&perks=1047830412,791862061,2679249093#notes:
+dimwishlist:item=2891672170&perks=1047830412,106909392,1631667848#notes:
+dimwishlist:item=2891672170&perks=791862061,1631667848,2679249093#notes:
+dimwishlist:item=2891672170&perks=1047830412,106909392,2679249093#notes:
+dimwishlist:item=2891672170&perks=1047830412,106909392#notes:
+dimwishlist:item=2891672170&perks=1631667848,2679249093#notes:
+dimwishlist:item=2891672170&perks=106909392,2679249093#notes:
+dimwishlist:item=2891672170&perks=791862061,1631667848#notes:
+dimwishlist:item=2891672170&perks=791862061,2679249093#notes:
+dimwishlist:item=2891672170&perks=106909392,1631667848#notes:
+dimwishlist:item=2891672170&perks=1047830412,791862061#notes:
+dimwishlist:item=2891672170&perks=1047830412,1631667848#notes:
+dimwishlist:item=2891672170&perks=1047830412,2679249093#notes:
+dimwishlist:item=2891672170&perks=106909392
+dimwishlist:item=2891672170&perks=1047830412
+dimwishlist:item=2891672170&perks=791862061
+dimwishlist:item=2891672170&perks=2679249093
+dimwishlist:item=2891672170&perks=1631667848
