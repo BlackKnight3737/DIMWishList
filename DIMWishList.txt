@@ -143,3 +143,53 @@ dimwishlist:item=3568377122&perks=951095735
 
 //notes:TRASH
 dimwishlist:item=-3568377122
+
+//DOOM OF CHELCHIS
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3824105627,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3824105627,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3824105627,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3824105627,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3824105627,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3824105627,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3824105627,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3824105627,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3038247973,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3038247973,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3038247973,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3038247973,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3824105627#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,3038247973#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3038247973,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3824105627,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3038247973,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3038247973,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3230963543#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3824105627,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3824105627,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3038247973,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3038247973,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3824105627,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,4049631843#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3038247973#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,3824105627#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,4104185692#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3038247973#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3230963543,3824105627#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=1482024992,2848615171#notes:CRAFTABLE. Only gun that has Explosive Payload in left column. Small bore, Flared Magwell, Explosive Payload, One For All/Firefly/Frenzy
+dimwishlist:item=1937552980&perks=3824105627
+dimwishlist:item=1937552980&perks=3230963543
+dimwishlist:item=1937552980&perks=1482024992
+dimwishlist:item=1937552980&perks=3038247973
+dimwishlist:item=1937552980&perks=2848615171
+dimwishlist:item=1937552980&perks=4104185692
+dimwishlist:item=1937552980&perks=4049631843
+
