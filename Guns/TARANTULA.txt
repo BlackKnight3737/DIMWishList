@@ -1,0 +1,3 @@
+
+//notes:Just use Stormchaser for Arc LFR. It has more damage and better perks. 
+dimwishlist:item=-333534336
