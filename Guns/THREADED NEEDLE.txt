@@ -1,3 +1,4 @@
 
+//THREADED NEEDLE
 //notes:TAIPAN-4FR is also a void LFR, is craftable, and deals more damage. Just use that.
 dimwishlist:item=-3075224551

@@ -89,9 +89,10 @@ dimwishlist:item=2988121501&perks=3523296417
 dimwishlist:item=2988121501&perks=2610012052
 dimwishlist:item=-2988121501
 
-
-
+//TARANTULA
 //notes:Just use Stormchaser for Arc LFR. It has more damage and better perks. 
 dimwishlist:item=-333534336
+
+//THREADED NEEDLE
 //notes:TAIPAN-4FR is also a void LFR, is craftable, and deals more damage. Just use that.
-dimwishlist:item=-3075224551
+dimwishlist:item=-3075224551
