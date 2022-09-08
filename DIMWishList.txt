@@ -90,6 +90,27 @@ dimwishlist:item=2988121501&perks=2610012052
 dimwishlist:item=-2988121501
 
 
+//PIZZICATO-22
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954,2846385770#notes:
+dimwishlist:item=4100775158&perks=202670084,1885400500,1428297954,2846385770#notes:
+dimwishlist:item=4100775158&perks=3250034553,1885400500,1428297954#notes:
+dimwishlist:item=4100775158&perks=3250034553,1428297954,2846385770#notes:
+dimwishlist:item=4100775158&perks=1885400500,1428297954,2846385770#notes:
+dimwishlist:item=4100775158&perks=3250034553,1885400500,2846385770#notes:
+dimwishlist:item=4100775158&perks=202670084,1428297954,2846385770#notes:
+dimwishlist:item=4100775158&perks=202670084,1885400500,2846385770#notes:
+dimwishlist:item=4100775158&perks=202670084,1885400500,1428297954#notes:
+dimwishlist:item=4100775158&perks=1885400500,1428297954#notes:
+dimwishlist:item=4100775158&perks=1885400500,2846385770#notes:
+dimwishlist:item=4100775158&perks=1428297954,2846385770#notes:
+dimwishlist:item=4100775158&perks=202670084,2846385770#notes:
+dimwishlist:item=4100775158&perks=202670084,1428297954#notes:
+dimwishlist:item=4100775158&perks=3250034553,1428297954#notes:
+dimwishlist:item=4100775158&perks=3250034553,2846385770#notes:
+dimwishlist:item=4100775158&perks=2846385770
+dimwishlist:item=4100775158&perks=1428297954
+dimwishlist:item=-4100775158
+
 //PURE POETRY
 dimwishlist:item=2671639706&perks=1840239774,1885400500,2451262963,3511092054,744217850#notes:
 dimwishlist:item=2671639706&perks=1840239774,1885400500,2451262963,47981717,744217850#notes:
@@ -161,6 +182,8 @@ dimwishlist:item=-2671639706
 //TARANTULA
 //notes:Just use Stormchaser for Arc LFR. It has more damage and better perks. 
 dimwishlist:item=-3335343363
+
 //THREADED NEEDLE
 //notes:TAIPAN-4FR is also a void LFR, is craftable, and deals more damage. Just use that.
-dimwishlist:item=-3075224551
+dimwishlist:item=-3075224551
+
