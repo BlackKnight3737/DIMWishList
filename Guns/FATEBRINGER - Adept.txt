@@ -1,0 +1,88 @@
+
+//FATEBRINGER - Adept
+Custom
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3418782618,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3418782618,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3418782618,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3418782618,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3418782618,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3418782618,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3418782618,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3418782618,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3418782618#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3038247973,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3038247973,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3038247973,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3418782618,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3418782618,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3038247973,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3038247973,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3038247973,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3418782618,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3418782618,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3038247973,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3038247973,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3038247973,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3418782618#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3142289711,3038247973#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3418782618,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3418782618,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3418782618,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3142289711,3038247973#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3250034553,2450788523,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3142289711,2450788523,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3250034553,3142289711,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,2450788523,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,3142289711,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3038247973,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3418782618,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3418782618,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3038247973,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3418782618,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3038247973,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3418782618#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3418782618#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3038247973#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1392496348,3038247973#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,1015611457#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,4104185692#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,3038247973#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3418782618#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=1482024992,3824105627#notes:Minor perks should focus on range. For PvE, Explosive Payload/Rewind Rounds in the first column, Firefly, Frenzy, Kill Clip in the second. Range MW.
+dimwishlist:item=1216319404&perks=3142289711,2450788523#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3142289711,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=2450788523,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1482024992,2450788523#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3250034553,2450788523#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=3250034553,47981717#notes:Minor perks should focus on range. For PvP, Killing Wind and Opening Shot. Range MW
+dimwishlist:item=1216319404&perks=1015611457
+dimwishlist:item=1216319404&perks=4104185692
+dimwishlist:item=1216319404&perks=3824105627
+dimwishlist:item=1216319404&perks=3038247973
+dimwishlist:item=1216319404&perks=3418782618
+dimwishlist:item=1216319404&perks=47981717
+dimwishlist:item=1216319404&perks=2450788523
+dimwishlist:item=-1216319404
