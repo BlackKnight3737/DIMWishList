@@ -1,3 +1,4 @@
 
+//APOSTATE
 //notes:Can't roll with snapshot sight, so it is not really useful in PvP. Doesn't have any good PvE rolls. Just shard it.
 dimwishlist:item=-2164448701
