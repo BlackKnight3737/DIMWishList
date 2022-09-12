@@ -191,6 +191,9 @@ dimwishlist:item=-1076810832#notes:Would really only use a solar pulse for PvE. 
 
 //FOUND VERDICT
 
+//FRONTIER'S CRY
+dimwishlist:item=-1141547457
+
 //HEZEN VENGEANCE - Adept
 
 //HEZEN VENGEANCE
@@ -423,6 +426,10 @@ dimwishlist:item=2488587246&perks=699525795
 dimwishlist:item=2488587246&perks=2387244414
 dimwishlist:item=2488587246&perks=1015611457
 dimwishlist:item=-2488587246
+
+//THE PALINDROME
+
+//THE PALINDROME
 
 //THE THIRD AXIOM
 dimwishlist:item=-4156253727#notes:Would rather use a crafted INSIDIOUS with enhanced perks
