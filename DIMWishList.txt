@@ -378,6 +378,8 @@ dimwishlist:item=-2671639706
 dimwishlist:item=-1796949035#notes:Use FALLING GUILLOTINE
 
 
+//RIPTIDE
+dimwishlist:item=-2715240478#notes:Craft Deliverance instead.
 //ROAR OF THE BEAR
 dimwishlist:item=-4009352833
 //TARANTULA
