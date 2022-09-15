@@ -514,6 +514,24 @@ dimwishlist:item=-2715240478#notes:Craft Deliverance instead.
 //ROAR OF THE BEAR
 dimwishlist:item=-4009352833
 
+//SNORRI FR5
+dimwishlist:item=4114929480&perks=3661387068,689005463,1570042021,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=3661387068,1570042021,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=689005463,1570042021,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=3661387068,689005463,1570042021#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=3661387068,689005463,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=3661387068,1570042021#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=3661387068,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=3661387068,689005463#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=1570042021,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=689005463,1570042021#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=689005463,2652708987#notes:PvP:Charge time masterwork/Counterbalance mod to get to 100
+dimwishlist:item=4114929480&perks=1570042021
+dimwishlist:item=4114929480&perks=2652708987
+dimwishlist:item=4114929480&perks=689005463
+dimwishlist:item=4114929480&perks=3661387068
+dimwishlist:item=-4114929480
+
 //TARANTULA
 //notes:Just use Stormchaser for Arc LFR. It has more damage and better perks. 
 dimwishlist:item=-3335343363
