@@ -1,34 +1,35 @@
 
 //GALLU RR3
-dimwishlist:item=617501162&perks=4090651448,3142289711,3643424744,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,3142289711,3643424744,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,3177308360,3643424744,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=4090651448,3643424744,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,3643424744,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,3643424744,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=3142289711,3643424744,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=3142289711,3643424744,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=3177308360,3643424744,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=4090651448,3142289711,3643424744#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,3142289711,3643424744#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,3177308360,3643424744#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=4090651448,3142289711,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,3142289711,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,3177308360,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=4090651448,3643424744#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,3643424744#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,3643424744#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=4090651448,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=4090651448,3142289711#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=839105230,3142289711#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=839105230,3177308360#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=3643424744,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=3643424744,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=3643424744,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
 dimwishlist:item=617501162&perks=3142289711,3643424744#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=3177308360,3643424744#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
-dimwishlist:item=617501162&perks=3142289711,957782887#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
+dimwishlist:item=617501162&perks=3142289711,2896038713#notes:PvE:Really looking for the last two columns. Overflow gives you up to 8 shots and then hitting 2 procs focused fury for 20% extra damage.
 dimwishlist:item=617501162&perks=3177308360,957782887#notes:PvP:Overflow makes it so you don't have to reload when picking up a brick and you can quickly shoot with snapshot to take advantage of that if you run out for a brick
 dimwishlist:item=617501162&perks=3643424744
 dimwishlist:item=617501162&perks=3643424744
-dimwishlist:item=617501162&perks=957782887
+dimwishlist:item=617501162&perks=2896038713
 dimwishlist:item=617501162&perks=957782887
 dimwishlist:item=617501162&perks=3142289711
 dimwishlist:item=617501162&perks=3177308360
-dimwishlist:item=617501162&perks=4090651448
+dimwishlist:item=617501162&perks=839105230
 dimwishlist:item=617501162&perks=839105230
 dimwishlist:item=-617501162
 dimwishlist:item=-617501162
+
