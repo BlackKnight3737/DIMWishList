@@ -3,6 +3,9 @@ Title:BlackKnight3737 wishlist (09/09/22)
 //notes:Can't roll with snapshot sight, so it is not really useful in PvP. Doesn't have any good PvE rolls. Just shard it.
 dimwishlist:item=-2164448701
 
+//BrayTech Werewolf
+
+dimwishlist:item=-2869466318#notes:450 RPM ARs don't really have a place. Could probably just use crafted Firefright instead.
 //CONTINGENCY PLAN
 //notes:Go craft TARNISHED METTLE instead.
 dimwishlist:item=-577528837
@@ -233,6 +236,74 @@ dimwishlist:item=-617501162
 
 //HEZEN VENGEANCE
 
+//Jurassic Green
+
+//PvE/PvP#1
+
+//PvE/PvP#2
+
+//PvE/PvP#3
+
+//PvE/PvP#4
+
+//PvE/PvP#5
+
+//PvE#1
+//Hammer-Forged Rifling/Polygonal Rifling/Smallbore
+//High-Caliber Rounds
+//Subsistence
+//Incandescent
+
+//PvE#2
+
+//PvE#3
+
+//PvE#4
+
+//PvE#5
+
+//PvP#1
+
+//PvP#2
+
+//PvP#3
+
+//PvP#4
+
+//PvP#5
+
+dimwishlist:item=2603335652&perks=1392496348,1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553#notes:PvE#1
+dimwishlist:item=2603335652&perks=4293542123#notes:PvE#1
+dimwishlist:item=-2603335652
 //KRAIT
 dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,4049631843#notes:
 dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337#notes:
