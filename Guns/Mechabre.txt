@@ -41,169 +41,169 @@
 //PvP#5
 
      
-dimwishlist=79582421&perks=3250034553,1087426260,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3142289711,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,3142289711,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=1087426260,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3142289711,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3142289711,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,3142289711,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,3142289711,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,3142289711,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=1087426260,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1087426260,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1087426260#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,2420895100#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3142289711,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3142289711,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3142289711,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,3142289711#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=1087426260#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2420895100#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3250034553#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
-dimwishlist=79582421&perks=2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3142289711#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=3250034553#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
-dimwishlist=79582421&perks=957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=1087426260,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3142289711,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=1087426260,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1546637391,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2213355989,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=1087426260#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2250679103#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
