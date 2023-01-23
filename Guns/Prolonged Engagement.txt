@@ -1,15 +1,5 @@
 
-Prolonged Engagement
-
-PvEPvP#1
-
-PvEPvP#2
-
-PvEPvP#3
-
-PvEPvP#4
-
-PvEPvP#5
+//Prolonged Engagement
 
 PvE#1
 Arrowhead BrakeSmallbore
@@ -17,24 +7,6 @@ Ricochet Rounds
 Subsistence
 Headstone
 Veist Stinger
-
-PvE#2
-
-PvE#3
-
-PvE#4
-
-PvE#5
-
-PvP#1
-
-PvP#2
-
-PvP#3
-
-PvP#4
-
-PvP#5
 
 dimwishlistitem=2349907931&perks=1482024992,1885400500,1820235745,124408337,3988215619#notesPvE#1
 dimwishlistitem=2349907931&perks=839105230,1885400500,1820235745,124408337,3988215619#notesPvE#1
