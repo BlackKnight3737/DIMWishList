@@ -1,13 +1,6 @@
 
 //Prolonged Engagement
 
-PvE#1
-Arrowhead BrakeSmallbore
-Ricochet Rounds
-Subsistence
-Headstone
-Veist Stinger
-
 dimwishlistitem=2349907931&perks=1482024992,1885400500,1820235745,124408337,3988215619#notesPvE#1
 dimwishlistitem=2349907931&perks=839105230,1885400500,1820235745,124408337,3988215619#notesPvE#1
 dimwishlistitem=2349907931&perks=1482024992,1820235745,124408337,3988215619#notesPvE#1
