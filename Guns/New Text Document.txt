@@ -1,0 +1,14 @@
+//Wendigo GL3 (Adept)
+
+dimwishlist:item=555148853&perks=3301904089,2284787283,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=2284787283,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3300816228,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,2284787283#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,3300816228#notes:PvE#1
+dimwishlist:item=555148853&perks=2284787283#notes:PvE#1
+dimwishlist:item=555148853&perks=3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3300816228#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089#notes:PvE#1
+dimwishlist:item=-555148853
