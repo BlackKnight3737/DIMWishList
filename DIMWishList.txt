@@ -8,6 +8,38 @@ dimwishlist:item=-1916287826#notes:Sidearms don't have much use
 //BrayTech Werewolf
 
 dimwishlist:item=-2869466318#notes:450 RPM ARs don't really have a place. Could probably just use crafted Firefright instead.
+//Cantata-57
+
+//PvE#1
+//Hammer-Forged Rifling/Corkscrew Rifling
+//Accurized Rounds
+//Rapid Hit
+//Timed Payload
+
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448#notes:PvE#1
+dimwishlist:item=-372697604
 //CONTINGENCY PLAN
 //notes:Go craft TARNISHED METTLE instead.
 dimwishlist:item=-577528837
@@ -239,7 +271,31 @@ dimwishlist:item=-617501162
 //HEZEN VENGEANCE - Adept
 
 //HEZEN VENGEANCE
-//Hung Jury SR4 (Adept)
+
+//Horror's Least (Adept)
+
+//PvP#1
+//Arrowhead Brake
+//Accurized Rounds
+//Perpetual Motion
+//Kill Clip
+
+dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711,1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,3142289711,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711,1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,3142289711#notes:PvP#1
+dimwishlist:item=1924276978&perks=1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230#notes:PvP#1
+dimwishlist:item=-1924276978//Hung Jury SR4 (Adept)
 
 dimwishlist:item=4074251943&perks=1840239774,106909392,1820235745,3038247973#notes:PvE#1
 dimwishlist:item=4074251943&perks=1840239774,106909392,247725512,3038247973#notes:PvE#1
