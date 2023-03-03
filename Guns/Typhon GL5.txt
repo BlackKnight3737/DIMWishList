@@ -1,0 +1,33 @@
+
+//Typhon GL5
+
+//PvE#1
+//Quick Launch
+//Spike Grenades
+//Impulse Amplifier
+//Chill Clip/Explosive Light
+
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,951095735#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,951095735#notes:PvE#1
+dimwishlist:item=3568377122&perks=951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810#notes:PvE#1
+dimwishlist:item=3568377122&perks=951095735#notes:PvE#1
+dimwishlist:item=-3568377122
