@@ -2,7 +2,93 @@ Title:BlackKnight3737 wishlist (09/09/22)
 //APOSTATE
 //notes:Can't roll with snapshot sight, so it is not really useful in PvP. Doesn't have any good PvE rolls. Just shard it.
 dimwishlist:item=-2164448701
+//Autumn Wind
 
+//PvE/PvP#1
+//Arrowhead Brake
+//Ricochet Rounds
+//Rangefinder
+//Headseeker/Moving Target
+//One Quiet Moment"
+
+dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,460017080,4091460919
+dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,588594999,4091460919
+dimwishlist:item=3110377595&perks=1885400500,2846385770,460017080,4091460919
+dimwishlist:item=3110377595&perks=1885400500,2846385770,588594999,4091460919
+dimwishlist:item=3110377595&perks=839105230,2846385770,460017080,4091460919
+dimwishlist:item=3110377595&perks=839105230,2846385770,588594999,4091460919
+dimwishlist:item=3110377595&perks=839105230,1885400500,460017080,4091460919
+dimwishlist:item=3110377595&perks=839105230,1885400500,588594999,4091460919
+dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,4091460919
+dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,460017080
+dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770,588594999
+dimwishlist:item=3110377595&perks=2846385770,460017080,4091460919
+dimwishlist:item=3110377595&perks=2846385770,588594999,4091460919
+dimwishlist:item=3110377595&perks=1885400500,460017080,4091460919
+dimwishlist:item=3110377595&perks=1885400500,588594999,4091460919
+dimwishlist:item=3110377595&perks=1885400500,2846385770,4091460919
+dimwishlist:item=3110377595&perks=1885400500,2846385770,460017080
+dimwishlist:item=3110377595&perks=1885400500,2846385770,588594999
+dimwishlist:item=3110377595&perks=839105230,460017080,4091460919
+dimwishlist:item=3110377595&perks=839105230,588594999,4091460919
+dimwishlist:item=3110377595&perks=839105230,2846385770,4091460919
+dimwishlist:item=3110377595&perks=839105230,2846385770,460017080
+dimwishlist:item=3110377595&perks=839105230,2846385770,588594999
+dimwishlist:item=3110377595&perks=839105230,1885400500,460017080
+dimwishlist:item=3110377595&perks=839105230,1885400500,588594999
+dimwishlist:item=3110377595&perks=839105230,1885400500,2846385770
+dimwishlist:item=3110377595&perks=460017080,4091460919
+dimwishlist:item=3110377595&perks=588594999,4091460919
+dimwishlist:item=3110377595&perks=2846385770,4091460919
+dimwishlist:item=3110377595&perks=2846385770,460017080
+dimwishlist:item=3110377595&perks=2846385770,588594999
+dimwishlist:item=3110377595&perks=1885400500,460017080
+dimwishlist:item=3110377595&perks=1885400500,588594999
+dimwishlist:item=3110377595&perks=1885400500,2846385770
+dimwishlist:item=3110377595&perks=839105230,460017080
+dimwishlist:item=3110377595&perks=839105230,588594999
+dimwishlist:item=3110377595&perks=839105230,2846385770
+dimwishlist:item=3110377595&perks=460017080
+dimwishlist:item=3110377595&perks=588594999
+dimwishlist:item=3110377595&perks=2846385770
+dimwishlist:item=-3110377595//BOUDICA-C
+
+dimwishlist:item=-1916287826#notes:Sidearms don't have much use
+//BrayTech Werewolf
+
+dimwishlist:item=-2869466318#notes:450 RPM ARs don't really have a place. Could probably just use crafted Firefright instead.
+//Cantata-57
+
+//PvE#1
+//Hammer-Forged Rifling/Corkscrew Rifling
+//Accurized Rounds
+//Rapid Hit
+//Timed Payload
+
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448#notes:PvE#1
+dimwishlist:item=-372697604
 //CONTINGENCY PLAN
 //notes:Go craft TARNISHED METTLE instead.
 dimwishlist:item=-577528837
@@ -183,7 +269,9 @@ dimwishlist:item=2171478765&perks=3418782618
 dimwishlist:item=2171478765&perks=47981717
 dimwishlist:item=2171478765&perks=2450788523
 dimwishlist:item=-2171478765
+//FIORITURA-59
 
+dimwishlist:item=-2566006935#notes:Sidearms don't have much use
 //FORGE'S PLEDGE
 dimwishlist:item=-1076810832#notes:Would really only use a solar pulse for PvE. I'd prefer to use OGMA PR6.
 
@@ -233,6 +321,250 @@ dimwishlist:item=-617501162
 
 //HEZEN VENGEANCE
 
+//Horror's Least (Adept)
+
+//PvP#1
+//Arrowhead Brake
+//Accurized Rounds
+//Perpetual Motion
+//Kill Clip
+
+dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711,1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,3142289711,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,3142289711,1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=1428297954,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711,1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230,3142289711#notes:PvP#1
+dimwishlist:item=1924276978&perks=1015611457#notes:PvP#1
+dimwishlist:item=1924276978&perks=1428297954#notes:PvP#1
+dimwishlist:item=1924276978&perks=3142289711#notes:PvP#1
+dimwishlist:item=1924276978&perks=839105230#notes:PvP#1
+dimwishlist:item=-1924276978//Hung Jury SR4 (Adept)
+
+dimwishlist:item=4074251943&perks=1840239774,106909392,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,106909392,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1087426260,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1087426260,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3230963543,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3230963543,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,106909392,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,106909392,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1087426260,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1087426260,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3230963543,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3230963543,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,106909392,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,106909392,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1087426260,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1087426260,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3230963543,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3230963543,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=106909392,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=106909392,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1087426260,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1087426260,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,106909392,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,106909392,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,106909392,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1087426260,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1087426260,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1087426260,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3230963543,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3230963543,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3230963543,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=3230963543,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=3230963543,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,106909392,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,106909392,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,106909392,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1087426260,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1087426260,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1087426260,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3230963543,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3230963543,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3230963543,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,106909392,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,106909392,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,106909392,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1087426260,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1087426260,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1087426260,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3230963543,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3230963543,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3230963543,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=106909392,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=106909392,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=106909392,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1087426260,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=1087426260,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=1087426260,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1820235745,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,106909392#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1087426260#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774,3230963543#notes:PvE#1
+dimwishlist:item=4074251943&perks=247725512,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=3230963543,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=3230963543,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=3230963543,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,106909392#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1087426260#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448,3230963543#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,106909392#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1087426260#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230,3230963543#notes:PvE#1
+dimwishlist:item=4074251943&perks=106909392#notes:PvE#1
+dimwishlist:item=4074251943&perks=1087426260#notes:PvE#1
+dimwishlist:item=4074251943&perks=1820235745#notes:PvE#1
+dimwishlist:item=4074251943&perks=1840239774#notes:PvE#1
+dimwishlist:item=4074251943&perks=247725512#notes:PvE#1
+dimwishlist:item=4074251943&perks=3038247973#notes:PvE#1
+dimwishlist:item=4074251943&perks=3230963543#notes:PvE#1
+dimwishlist:item=4074251943&perks=4090651448#notes:PvE#1
+dimwishlist:item=4074251943&perks=839105230#notes:PvE#1
+dimwishlist:item=-4074251943//Jararaca-3sr
+
+//PvE#1
+//Arrowhead Brake
+//High-Caliber Rounds/Ricochet Rounds
+//Perpetual Motion/Rapid Hit/Fourth Time's the Charm
+//Headstone
+
+dimwishlist:item=1851521408&perks=839105230,1561002382,1354429876,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382,1428297954,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382,247725512,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,1354429876,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,1428297954,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,247725512,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,1354429876,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,1428297954,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,247725512,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,1354429876,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,1428297954,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,247725512,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1354429876,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1428297954,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382,1354429876#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382,1428297954#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382,247725512#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,1354429876#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,1428297954#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500,247725512#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,247725512,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1354429876,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1428297954,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,1354429876#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,1428297954#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382,247725512#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,1354429876#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,1428297954#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500,247725512#notes:PvE#1
+dimwishlist:item=1851521408&perks=247725512,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1354429876#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1428297954#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1561002382#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,1885400500#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230,247725512#notes:PvE#1
+dimwishlist:item=1851521408&perks=124408337#notes:PvE#1
+dimwishlist:item=1851521408&perks=1354429876#notes:PvE#1
+dimwishlist:item=1851521408&perks=1428297954#notes:PvE#1
+dimwishlist:item=1851521408&perks=1561002382#notes:PvE#1
+dimwishlist:item=1851521408&perks=1885400500#notes:PvE#1
+dimwishlist:item=1851521408&perks=247725512#notes:PvE#1
+dimwishlist:item=1851521408&perks=839105230#notes:PvE#1
+dimwishlist:item=-1851521408
+//Jurassic Green
+
+//PvE/PvP#1
+
+//PvE/PvP#2
+
+//PvE/PvP#3
+
+//PvE/PvP#4
+
+//PvE/PvP#5
+
+//PvE#1
+//Hammer-Forged Rifling/Polygonal Rifling/Smallbore
+//High-Caliber Rounds
+//Subsistence
+//Incandescent
+
+//PvE#2
+
+//PvE#3
+
+//PvE#4
+
+//PvE#5
+
+//PvP#1
+
+//PvP#2
+
+//PvP#3
+
+//PvP#4
+
+//PvP#5
+
+dimwishlist:item=2603335652&perks=1392496348,1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1820235745,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553,4293542123#notes:PvE#1
+dimwishlist:item=2603335652&perks=1392496348#notes:PvE#1
+dimwishlist:item=2603335652&perks=1482024992#notes:PvE#1
+dimwishlist:item=2603335652&perks=1561002382#notes:PvE#1
+dimwishlist:item=2603335652&perks=1820235745#notes:PvE#1
+dimwishlist:item=2603335652&perks=3250034553#notes:PvE#1
+dimwishlist:item=2603335652&perks=4293542123#notes:PvE#1
+dimwishlist:item=-2603335652
 //KRAIT
 dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,4049631843#notes:
 dimwishlist:item=2852052802&perks=839105230,1885400500,1820235745,124408337#notes:
@@ -267,7 +599,353 @@ dimwishlist:item=2852052802&perks=124408337
 dimwishlist:item=2852052802&perks=3643424744
 dimwishlist:item=2852052802&perks=1820235745
 dimwishlist:item=-2852052802
+//Lunulata-4b
 
+//PvE#1
+//Natural String/Polymer String/Tactile String
+//Helical Fletching/Straight Fletching/Carbon Arrow Shaft/Compact Arrow Shaft
+//Well-Rounded
+//Headstone
+
+dimwishlist:item=2513965917&perks=1196733167,16392701,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,2154191829,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3311977193,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3827198035,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,16392701,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,2154191829,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3311977193,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3827198035,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,16392701,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,2154191829,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3311977193,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3827198035,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,16392701,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,16392701,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,2154191829,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,2154191829,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3311977193,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3311977193,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3827198035,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3827198035,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=16392701,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,16392701,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,16392701,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,2154191829,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,2154191829,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3311977193,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3311977193,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3827198035,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3827198035,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=2154191829,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=3311977193,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=3827198035,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,16392701,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,16392701,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,2154191829,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,2154191829,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3311977193,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3311977193,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3827198035,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3827198035,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,16392701#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,2154191829#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3311977193#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,3827198035#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=16392701,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=16392701,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,16392701#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,2154191829#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3311977193#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,3827198035#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=2154191829,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=2154191829,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=3311977193,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=3311977193,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=3827198035,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=3827198035,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=744594675,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,16392701#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,2154191829#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3311977193#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,3827198035#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214,744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=1196733167#notes:PvE#1
+dimwishlist:item=2513965917&perks=124408337#notes:PvE#1
+dimwishlist:item=2513965917&perks=16392701#notes:PvE#1
+dimwishlist:item=2513965917&perks=1784898267#notes:PvE#1
+dimwishlist:item=2513965917&perks=2154191829#notes:PvE#1
+dimwishlist:item=2513965917&perks=3311977193#notes:PvE#1
+dimwishlist:item=2513965917&perks=3827198035#notes:PvE#1
+dimwishlist:item=2513965917&perks=744594675#notes:PvE#1
+dimwishlist:item=2513965917&perks=852209214#notes:PvE#1
+dimwishlist:item=-2513965917
+//Mechabre
+
+//PvE/PvP#1
+
+//PvE/PvP#2
+
+//PvE/PvP#3
+
+//PvE/PvP#4
+
+//PvE/PvP#5
+
+//PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+//Hammer-Forged Rifling
+//Appended Mag/Extended Mag
+//Triple Tap/Clown Cartridge/Auto-Loading Holster
+//Vorpal Weapon/High-Impact Reserves
+
+//PvE#2
+
+//PvE#3
+
+//PvE#4
+
+//PvE#5
+
+//PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+//Hammer-Forged Rifling
+//Accurized Rounds
+//Snapshot Sights/No Distractions
+//Opening Shot
+
+//PvP#2
+
+//PvP#3
+
+//PvP#4
+
+//PvP#5
+
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3142289711,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=1087426260,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1087426260,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1087426260#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,2420895100#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553,3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728,2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2866798147,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,3142289711#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553,957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=957782887,47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=1087426260#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=1546637391#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2213355989#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2284787283#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2420895100#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3250034553#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3300816228#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=3400784728#notes:PvE#1 - Using a mag mod + an extended/appended mag could get to 5 shots and trigger Triple Tap twice. 
+dimwishlist:item=1280894514&perks=2866798147#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3142289711#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=3250034553#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=47981717#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=1280894514&perks=957782887#notes:PvP#1 - Kackis. Look to increase Range. Stay away from something Full Bore as Stability is tied to Flinch. Look to increase mag size as default mag is only 3 shots. 
+dimwishlist:item=-1280894514
+//Mindbender's Ambition (Adept)
+
+/PvE/PvP#5
+
+//PvE#1
+//Smoothbore/Full Choke
+//Accurized Rounds
+//Threat Detector
+//One-Two Punch/Incandescent
+
+//PvP#1
+//Smoothbore/Full Choke
+//Accurized Rounds
+//Slideways
+//Swashbuckler/Incandescent
+//Vanguard's Vindication
+
+dimwishlist:item=912150785&perks=1047830412,106909392,2039302152,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,2039302152,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,2039302152,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,2039302152,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4071163871,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4071163871,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,106909392,4071163871,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,106909392,4071163871,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,106909392,2039302152,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,2039302152,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,2039302152,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,2039302152,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,2039302152,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,2039302152,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,2039302152,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,2039302152,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,2039302152,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,2039302152,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,2039302152,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,2039302152,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4071163871#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,4071163871,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,4071163871,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=106909392,4071163871,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=106909392,4071163871,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,106909392,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,106909392,4071163871#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,106909392,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,4071163871,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,4071163871,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,106909392,2039302152#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,2039302152,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,2039302152,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,2039302152,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,2039302152,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,2039302152,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,2039302152,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=2039302152,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=2039302152,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,2039302152#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,2039302152,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,2039302152,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,2039302152,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,106909392#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,4071163871#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=106909392,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=106909392,4071163871#notes:PvE#1
+dimwishlist:item=912150785&perks=106909392,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=4071163871,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=4071163871,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,106909392#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,4071163871#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222,4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412,106909392#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,2039302152#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,2039302152#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=2039302152,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=2039302152,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=2039302152,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=4082225868,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=4293542123,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,106909392#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,2039302152#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222,744217850#notes:PvP#1
+dimwishlist:item=912150785&perks=1047830412#notes:PvE#1
+dimwishlist:item=912150785&perks=106909392#notes:PvE#1
+dimwishlist:item=912150785&perks=2679249093#notes:PvE#1
+dimwishlist:item=912150785&perks=4071163871#notes:PvE#1
+dimwishlist:item=912150785&perks=4293542123#notes:PvE#1
+dimwishlist:item=912150785&perks=466087222#notes:PvE#1
+dimwishlist:item=912150785&perks=1047830412#notes:PvP#1
+dimwishlist:item=912150785&perks=106909392#notes:PvP#1
+dimwishlist:item=912150785&perks=2039302152#notes:PvP#1
+dimwishlist:item=912150785&perks=4082225868#notes:PvP#1
+dimwishlist:item=912150785&perks=4293542123#notes:PvP#1
+dimwishlist:item=912150785&perks=466087222#notes:PvP#1
+dimwishlist:item=912150785&perks=744217850#notes:PvP#1
+dimwishlist:item=-912150785
 //Out of Bounds
 dimwishlist:item=2988121501&perks=3250034553,1885400500,1428297954,2846385770,2839173408#notes:pvp
 dimwishlist:item=2988121501&perks=3250034553,1885400500,1428297954,1015611457,2839173408#notes:pvp
@@ -472,6 +1150,56 @@ dimwishlist:item=-4100775158
 
 //PRAEDYTH'S REVENGE
 
+//Prolonged Engagement
+dimwishlistitem=2349907931&perks=1482024992,1885400500,1820235745,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,1820235745,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1820235745,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500,1820235745,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500,1820235745,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,1820235745,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1820235745,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,1820235745,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,1820235745,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1820235745,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1820235745,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500,1820235745#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1820235745,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,1820235745,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,1820235745,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1820235745,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1820235745,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,1820235745#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=124408337,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1820235745#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,1885400500#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1820235745,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1820235745,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,1820235745#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1820235745#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,1885400500#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230,3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=124408337#notesPvE#1
+dimwishlistitem=2349907931&perks=1482024992#notesPvE#1
+dimwishlistitem=2349907931&perks=1820235745#notesPvE#1
+dimwishlistitem=2349907931&perks=1885400500#notesPvE#1
+dimwishlistitem=2349907931&perks=3988215619#notesPvE#1
+dimwishlistitem=2349907931&perks=839105230#notesPvE#1
+dimwishlistitem=-2349907931
+
 //PURE POETRY
 dimwishlist:item=2671639706&perks=1840239774,1885400500,2451262963,3511092054,744217850#notes:
 dimwishlist:item=2671639706&perks=1840239774,1885400500,2451262963,47981717,744217850#notes:
@@ -566,7 +1294,192 @@ dimwishlist:item=4114929480&perks=2652708987
 dimwishlist:item=4114929480&perks=689005463
 dimwishlist:item=4114929480&perks=3661387068
 dimwishlist:item=-4114929480
+//Sorrow's Verse
+dimwishlist:item=-2496875173
+//Staccato-46
 
+//Hammer-Forged Rifling/Smallbore/Polygonal Rifling
+//Accurized Rounds
+//Triple Tap/Well-Rounded
+//Explosive Payload/Incandescent
+//Suros Synergy
+
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3400784728,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3400784728,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=744594675,3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=744594675,4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3142289711#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3142289711#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=3038247973,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3142289711#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553,744594675#notes:PvE#1
+dimwishlist:item=4019668921&perks=3400784728,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3400784728,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=3400784728,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=4293542123,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=744594675,3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=744594675,4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=744594675,4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=1392496348#notes:PvE#1
+dimwishlist:item=4019668921&perks=1482024992#notes:PvE#1
+dimwishlist:item=4019668921&perks=3038247973#notes:PvE#1
+dimwishlist:item=4019668921&perks=3142289711#notes:PvE#1
+dimwishlist:item=4019668921&perks=3250034553#notes:PvE#1
+dimwishlist:item=4019668921&perks=3400784728#notes:PvE#1
+dimwishlist:item=4019668921&perks=4008116374#notes:PvE#1
+dimwishlist:item=4019668921&perks=4293542123#notes:PvE#1
+dimwishlist:item=4019668921&perks=744594675#notes:PvE#1
+dimwishlist:item=-4019668921
+//Synchronic Roulette
+
+//PvE#1
+//Polygonal Rifling
+//Ricochet Rounds
+//Envious Assassin
+//Hatchling/Kill Clip
+
+dimwishlist:item=811403305&perks=1392496348,1885400500,968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,968510818#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,968510818#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,968510818#notes:PvE#1
+dimwishlist:item=811403305&perks=968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500#notes:PvE#1
+dimwishlist:item=811403305&perks=831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=968510818#notes:PvE#1
+dimwishlist:item=-811403305
 //TARANTULA
 //notes:Just use Stormchaser for Arc LFR. It has more damage and better perks. 
 dimwishlist:item=-3335343363
@@ -614,6 +1527,163 @@ dimwishlist:item=2488587246&perks=2387244414
 dimwishlist:item=2488587246&perks=1015611457
 dimwishlist:item=-2488587246
 
+//The Militia's Birthright (Adept)
+
+//PvE/PvP#1
+
+//PvE/PvP#2
+
+//PvE/PvP#3
+
+//PvE/PvP#4
+
+//PvE/PvP#5
+
+//PvE#1
+//Hard Launch
+//Blinding Grenades/Spike Grenades
+//Ambitious Assassin
+//Auto-Loading Holster/Frenzy/One for All/Swashbuckler
+//Vanguard's Vindication
+
+//PvE#2
+
+//PvE#3
+
+//PvE#4
+
+//PvE#5
+
+//PvP#1
+
+//PvP#2
+
+//PvP#3
+
+//PvP#4
+
+//PvP#5
+
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,2010801679#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,2010801679#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,2010801679#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3300816228,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,2010801679#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=4049631843,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=4082225868,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=4104185692,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,2010801679#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3032599245#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,3301904089#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802,744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=2010801679#notes:PvE#1
+dimwishlist:item=2378101424&perks=3032599245#notes:PvE#1
+dimwishlist:item=2378101424&perks=3300816228#notes:PvE#1
+dimwishlist:item=2378101424&perks=3301904089#notes:PvE#1
+dimwishlist:item=2378101424&perks=4049631843#notes:PvE#1
+dimwishlist:item=2378101424&perks=4082225868#notes:PvE#1
+dimwishlist:item=2378101424&perks=4104185692#notes:PvE#1
+dimwishlist:item=2378101424&perks=744217850#notes:PvE#1
+dimwishlist:item=2378101424&perks=981914802#notes:PvE#1
+dimwishlist:item=-2378101424
 //THE PALINDROME
 
 //THE PALINDROME
@@ -625,7 +1695,52 @@ dimwishlist:item=-4156253727#notes:Would rather use a crafted INSIDIOUS with enh
 //notes:TAIPAN-4FR is also a void LFR, is craftable, and deals more damage. Just use that.
 dimwishlist:item=-3075224551
 
+//Typhon GL5
+
+//PvE#1
+//Quick Launch
+//Spike Grenades
+//Impulse Amplifier
+//Chill Clip/Explosive Light
+
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089,951095735#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089,951095735#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,3301904089#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810,951095735#notes:PvE#1
+dimwishlist:item=3568377122&perks=951095735,2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=951095735,3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=2978966579#notes:PvE#1
+dimwishlist:item=3568377122&perks=3194351027#notes:PvE#1
+dimwishlist:item=3568377122&perks=3301904089#notes:PvE#1
+dimwishlist:item=3568377122&perks=3525010810#notes:PvE#1
+dimwishlist:item=3568377122&perks=951095735#notes:PvE#1
+dimwishlist:item=-3568377122
 //VISION OF CONFLUENCE - Adept
 
 //VISION OF CONFLUENCE
-
+//Wendigo GL3 (Adept)
+
+dimwishlist:item=555148853&perks=3301904089,2284787283,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=2284787283,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3300816228,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,2284787283#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089,3300816228#notes:PvE#1
+dimwishlist:item=555148853&perks=2284787283#notes:PvE#1
+dimwishlist:item=555148853&perks=3194351027#notes:PvE#1
+dimwishlist:item=555148853&perks=3300816228#notes:PvE#1
+dimwishlist:item=555148853&perks=3301904089#notes:PvE#1
+dimwishlist:item=-555148853

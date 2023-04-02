@@ -1,0 +1,33 @@
+
+//Synchronic Roulette
+
+//PvE#1
+//Polygonal Rifling
+//Ricochet Rounds
+//Envious Assassin
+//Hatchling/Kill Clip
+
+dimwishlist:item=811403305&perks=1392496348,1885400500,968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500,968510818#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,1885400500#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348,968510818#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500,968510818#notes:PvE#1
+dimwishlist:item=811403305&perks=968510818,1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=968510818,831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=1015611457#notes:PvE#1
+dimwishlist:item=811403305&perks=1392496348#notes:PvE#1
+dimwishlist:item=811403305&perks=1885400500#notes:PvE#1
+dimwishlist:item=811403305&perks=831391274#notes:PvE#1
+dimwishlist:item=811403305&perks=968510818#notes:PvE#1
+dimwishlist:item=-811403305

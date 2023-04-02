@@ -1,0 +1,33 @@
+
+//Cantata-57
+
+//PvE#1
+//Hammer-Forged Rifling/Corkscrew Rifling
+//Accurized Rounds
+//Rapid Hit
+//Timed Payload
+
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=247725512,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553,3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448,3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=1954620775#notes:PvE#1
+dimwishlist:item=372697604&perks=247725512#notes:PvE#1
+dimwishlist:item=372697604&perks=3142289711#notes:PvE#1
+dimwishlist:item=372697604&perks=3250034553#notes:PvE#1
+dimwishlist:item=372697604&perks=4090651448#notes:PvE#1
+dimwishlist:item=-372697604
