@@ -1,7 +1,12 @@
 //HUNG JURY SR4 (ADEPT)
-dimwishlist:item=2883684343&perks=1820235745,3891536761
+//items/2883684343/hung-jury-sr4-adept/?p=,,247725512,3891536761
+//items/2883684343/hung-jury-sr4-adept/?p=,,3700496672,3891536761
+//items/2883684343/hung-jury-sr4-adept/?p=,,1820235745,3891536761
 dimwishlist:item=2883684343&perks=247725512,3891536761
+dimwishlist:item=2883684343&perks=3700496672,3891536761
+dimwishlist:item=2883684343&perks=1820235745,3891536761
 dimwishlist:item=2883684343&perks=1820235745
-dimwishlist:item=2883684343&perks=247725512
+dimwishlist:item=2883684343&perks=3700496672
 dimwishlist:item=2883684343&perks=3891536761
+dimwishlist:item=2883684343&perks=247725512
 dimwishlist:item=-2883684343
